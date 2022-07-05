@@ -37,9 +37,9 @@
 \
 实验过程及实验结果（C版）
 >设定一个m为10的值，n=200作为实例参考
-```
+
 ![main.c](./picture/SS6CTQBZGB%25NFN%25J%7DQV%25TFG.png)
 
-```
+
 图标分析：
 ![](./picture/carry.png)
